@@ -1,1 +1,1 @@
-<img src="mbahagus.github.io.webp"/>
+<img src="image.webp"/>
